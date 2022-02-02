@@ -23,7 +23,6 @@ https://forms.gle/DXb7cKVp3WoJJAgq7
 - Save Filter
 
 
-
 **Below are the Current Filters we have and what they display**
 Xbox 360 (This does not include XBLA or Kinect Games)
 XBLA (Xbox Live Arcade Games)
