@@ -21,8 +21,9 @@ https://forms.gle/DXb7cKVp3WoJJAgq7
 - Click on Add Filter and then use the bumper to change to Filter
 - Navigate to User and then Select the Filter that you copied from the above instructions
 - Save Filter
-
-
+<br/>
+<br/>
+<br/>
 **Below are the Current Filters we have and what they display**<br/>
 - Xbox 360 (This does not include XBLA or Kinect Games)<br/>
 - XBLA (Xbox Live Arcade Games)<br/>
