@@ -13,6 +13,7 @@ or Content.TitleId == 0x434307D4
 or Content.TitleId == 0x43430819
 or Content.TitleId == 0x58410A21
 or Content.TitleId == 0x58410B41
+or Content.TitleId == 0x4541009D
 or Content.TitleId == 0x584108D8)
 end
 

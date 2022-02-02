@@ -72,6 +72,8 @@ or Content.TitleId == 0x584113e3
 or Content.TitleId == 0x4D530A95
 or Content.TitleId == 0x4D4A07F6
 or Content.TitleId == 0x44500807
+or Content.TitleId == 0x575207D7
+or Content.TitleId == 0x5345084D
 or Content.TitleId == 0x44500807)
 end
 
