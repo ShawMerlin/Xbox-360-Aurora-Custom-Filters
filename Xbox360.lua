@@ -222,6 +222,19 @@ or Content.TitleId == 0x4C4107D2
 or Content.TitleId == 0x545408A7
 or Content.TitleId == 0x5454000E
 or Content.TitleId == 0x54540082
+or Content.TitleId == 0x454107D8
+or Content.TitleId == 0x454108C3
+or Content.TitleId == 0x454109C9
+or Content.TitleId == 0x584112A1
+or Content.TitleId == 0x53450815
+or Content.TitleId == 0x555307F9
+or Content.TitleId == 0x545108AF
+or Content.TitleId == 0x584113e3
+or Content.TitleId == 0x58410996
+or Content.TitleId == 0x373407D6
+or Content.TitleId == 0x41560845
+or Content.TitleId == 0x545108AE
+or Content.TitleId == 0x415607F2
 or Content.TitleId == 0x55530810)
 end
 
