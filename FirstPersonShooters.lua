@@ -1,6 +1,5 @@
 GameListFilterCategories.User["1st Person Shooters"] = function(Content)
 return (Content.TitleId == 0x5841097E
-or Content.TitleId == 0x454107D8
 or Content.TitleId == 0x454107F9
 or Content.TitleId == 0x4D5707D7
 or Content.TitleId == 0x584109B3

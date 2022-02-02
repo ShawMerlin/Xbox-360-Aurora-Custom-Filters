@@ -44,7 +44,6 @@ or Content.TitleId == 0x58410A59
 or Content.TitleId == 0x454107DF
 or Content.TitleId == 0x575207EF
 or Content.TitleId == 0x4D5307FA
-or Content.TitleId == 0x45530001
 or Content.TitleId == 0x54510860
 or Content.TitleId == 0x4156082F
 or Content.TitleId == 0x5454086B
