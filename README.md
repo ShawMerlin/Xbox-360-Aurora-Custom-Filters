@@ -23,17 +23,17 @@ https://forms.gle/DXb7cKVp3WoJJAgq7
 - Save Filter
 
 
-**Below are the Current Filters we have and what they display**
-Xbox 360 (This does not include XBLA or Kinect Games)
-XBLA (Xbox Live Arcade Games)
-Arcade (These games resemble older Arcade Games, good if using an Arcade Stick setup)
-Fighters (Fighter Games and other similar, good if using an Arcade Stick Setup)
-1st Person Shooters (Games like Call of Duty and Ghost Recon)
-3rd Person View (Games where you see your charater in front of you on the screen. I.E. Battlefront)
-Sports (FIFA, Madden, any games that are sport like)
-Kinect (Games that use the Kinect Sensor)
-Racing (Games that involve racing, mostly car racing but others are included.  Good for racing wheels)
-Flyers (Games involving flight)
-Role Playing Games (Games that feature deeper story lines and various free play aspects)
-Xbox Classic (Original Xbox Games)
-Zombies (Self-Explanatory)
+**Below are the Current Filters we have and what they display**<br/>
+Xbox 360 (This does not include XBLA or Kinect Games)<br/>
+XBLA (Xbox Live Arcade Games)<br/>
+Arcade (These games resemble older Arcade Games, good if using an Arcade Stick setup)<br/>
+Fighters (Fighter Games and other similar, good if using an Arcade Stick Setup)<br/>
+1st Person Shooters (Games like Call of Duty and Ghost Recon)<br/>
+3rd Person View (Games where you see your charater in front of you on the screen. I.E. Battlefront)<br/>
+Sports (FIFA, Madden, any games that are sport like)<br/>
+Kinect (Games that use the Kinect Sensor)<br/>
+Racing (Games that involve racing, mostly car racing but others are included.  Good for racing wheels)<br/>
+Flyers (Games involving flight)<br/>
+Role Playing Games (Games that feature deeper story lines and various free play aspects)<br/>
+Xbox Classic (Original Xbox Games)<br/>
+Zombies (Self-Explanatory)<br/>
