@@ -311,6 +311,25 @@ or Content.TitleId == 0x584111E8
 or Content.TitleId == 0x58410822
 or Content.TitleId == 0x5841083E
 or Content.TitleId == 0x58410B66
+or Content.TitleId == 0x584109B4
+or Content.TitleId == 0x58410B62
+or Content.TitleId == 0x58410860
+or Content.TitleId == 0x5841097E
+or Content.TitleId == 0x58410A86
+or Content.TitleId == 0x584109B3
+or Content.TitleId == 0x584108D3
+or Content.TitleId == 0x58411259
+or Content.TitleId == 0x58410A0F
+or Content.TitleId == 0x5841122F
+or Content.TitleId == 0x58410823
+or Content.TitleId == 0x584109B6
+or Content.TitleId == 0x58410824
+or Content.TitleId == 0x58410A59
+or Content.TitleId == 0x5752084F
+or Content.TitleId == 0x584109ED
+or Content.TitleId == 0x58410869
+or Content.TitleId == 0x58410A4D
+or Content.TitleId == 0x58410996
 or Content.TitleId == 0x44500807)
 end
 
