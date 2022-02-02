@@ -8,7 +8,7 @@ https://forms.gle/DXb7cKVp3WoJJAgq7
 
 
 **Instructions!!**
-- Using A File Transfer Method (Filezilla, X360 Neighborhood, USB Stick, ECT)
+- Using a File Transfer Method (Filezilla, X360 Neighborhood, USB Stick, ECT)
 - Copy the assetts from this page to your XBox 360 in Aurora/User/Scripts/Content/Filters
 - Power cycle your Xbox 360
 
